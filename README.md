@@ -6,7 +6,7 @@ This project is a **responsive landing page** for **Study MBBS Abroad**, designe
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](#) _(Deploy the project on Netlify/Vercel and update this link)_
+🔗 [Live Demo](#) _(https://university-insights-web.vercel.app/)_
 
 ## 📂 Repository Structure
 
@@ -48,8 +48,8 @@ This project is a **responsive landing page** for **Study MBBS Abroad**, designe
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/study-mbbs-abroad.git
-   cd study-mbbs-abroad
+   git clone https://github.com/Walid-3105/university-insights.git
+   cd university-insights
    ```
 2. **Install dependencies:**
    ```sh
