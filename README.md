@@ -6,7 +6,7 @@ This project is a **responsive landing page** for **Study MBBS Abroad**, designe
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](#) _(https://university-insights-web.vercel.app/)_
+🔗 [Live Demo](#) _[https://university-insights-web.vercel.app]_
 
 ## 📂 Repository Structure
 
